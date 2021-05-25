@@ -1512,3 +1512,6 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1621947136009	Marionette	WARN	TLS certificate errors will be ignored for this session
 
 (/usr/lib/firefox/firefox:7432): GLib-GObject-CRITICAL **: 12:52:16.141: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1621947918120	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDTeXSU"
+*** You are running in headless mode.

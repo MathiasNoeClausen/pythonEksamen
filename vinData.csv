@@ -1,4 +1,3 @@
-Name, Year, Price, Rating, Country
 Edizione Cinque Autoctoni,9999,149,4.3,Italy
 Malbec 2018,2018,59.95,3.8,Argentina
 Malbec 2016,2016,129.95,4.1,Argentina
@@ -74,3 +73,703 @@ Crianza 2017,2017,169.95,4.1,Spain
 Bushvine Pinotage 2017,2017,110,3.7,South Africa
 Valpolicella Ripasso (Classico Superiore) 2017,2017,139,4.1,Italy
 Estate Malbec 2018,2018,99,3.8,Argentina
+Gran Enemigo Single Vineyard Gualtallary Cabernet Franc 2016,2016,599.95,4.7,Argentina
+Pinot Noir Santa Barbara County 2018,2018,199,4.0,United States
+Chardonnay 2019,2019,99,3.9,United States
+Chardonnay 2018,2018,175,4.3,United States
+Reserve Zinfandel 2018,2018,79,4.1,United States
+Zingari Toscana 2017,2017,99,3.9,Italy
+Cabernet Sauvignon 2010,2010,149.95,3.9,Argentina
+Cabernet Sauvignon 2015,2015,149,3.9,United States
+Angels' Share Shiraz 2018,2018,159.95,4.1,Australia
+Malbec Argentino 2012,2012,599.95,3.9,Argentina
+Chianti Classico 2018,2018,179,3.9,Italy
+Lucente 2017,2017,241,4.0,Italy
+Gran Enemigo 2014,2014,499.95,4.5,Argentina
+1300 Malbec 2017,2017,110,3.6,Argentina
+Le Difese 2017,2017,159.95,3.7,Italy
+Ca'Marcanda Promis Toscana 2017,2017,269.95,4.1,Italy
+Red 2013,2013,269,4.2,Spain
+Barbaresco 2013,2013,269.95,3.9,Italy
+Cabernet Sauvignon 2014,2014,799,4.4,United States
+Malbec 2015,2015,299.95,4.2,Argentina
+Badia a Passignano Gran Selezione Chianti Classico 2015,2015,369,4.3,Italy
+Amicone 2017,2017,65,4.0,Italy
+Indian Wells Cabernet Sauvignon 2017,2017,239,4.0,United States
+Rioja Gran Reserva 2009,2009,225,3.9,Spain
+Kadette Cape Blend 2015,2015,149,3.8,South Africa
+Dairyman Vineyard Pinot Noir 2017,2017,379,4.4,United States
+Malbec Argentino 2011,2011,595,4.1,Argentina
+Malbec 2013,2013,299.95,4.2,Argentina
+Curioso Grand Edizione 2016,2016,149,4.0,Italy
+Carmenère 2015,2015,179,4.0,Chile
+Viña Tondonia Reserva 2008,2008,325,4.3,Spain
+Old Vine Malbec 2015,2015,159.95,4.2,Argentina
+337 Cabernet Sauvignon 2017,2017,139,3.8,United States
+Malleolus 2017,2017,245,4.3,Spain
+Silencio 2018,2018,149,4.0,Spain
+Pizzella Malbec (Pizzella Family Vineyard) 2017,2017,99.95,4.0,Argentina
+Nebbiolo Langhe 2018,2018,149.95,3.8,Italy
+Belleruche Côtes-du-Rhône 2018,2018,79,3.7,France
+Viña Bosconia Reserva 2007,2007,275,4.2,Spain
+HANDS OF TIME Red 2014,2014,279,4.1,United States
+Cabernet Sauvignon 2017,2017,349,4.1,United States
+Reserva Rioja (Finca Ygay) 2016,2016,159,4.1,Spain
+Riserva Cannonau di Sardegna 2017,2017,149,3.8,Italy
+Vigneto Monte Sant'Urbano Amarone della Valpolicella Classico 2013,2013,1000,4.4,Italy
+Freakshow Red 2015,2015,199,3.9,United States
+Guidalberto 2018,2018,349,4.2,Italy
+Costamolino Vermentino di Sardegna 2017,2017,119.95,3.8,Italy
+Antiguas Reservas Cabernet Sauvignon 2017,2017,115,3.8,Chile
+Brunello di Montalcino 2013,2013,349.95,4.2,Italy
+Barolo 2014,2014,185,3.9,Italy
+Time Waits For No One (Red label) 2017,2017,85,3.8,Spain
+Malbec 2016,2016,299.95,4.3,Argentina
+Catarratto - Zibibbo 2019,2019,59,3.9,Italy
+Gran Enemigo Single Vineyard Agrelo Cabernet Franc 2014,2014,599.95,4.6,Argentina
+Chianti Classico 2015,2015,139.95,3.9,Italy
+Veraton Garnacha 2016,2016,398,4.3,Spain
+Coste di Moro Montepulciano d'Abruzzo 2016,2016,149,3.8,Italy
+Pauillac (Grand Cru Classé) 2008,2008,1500,4.3,France
+Petite Sirah 2018,2018,125,4.0,United States
+No Name 2015,2015,349,4.1,Italy
+Toscana Governo Rosso 2018,2018,99,4.1,Italy
+Fantini Montepulciano d'Abruzzo 2018,2018,87.50,3.6,Italy
+Sauvignon Blanc 2020,2020,249,4.2,New Zealand
+Taurasi 2012,2012,169.95,3.9,Italy
+Cabernet Sauvignon 2016,2016,129.95,3.9,Argentina
+Le Difese 2018,2018,199.95,3.8,Italy
+Alicante Bouschet 2019,2019,59,4.1,Portugal
+Tinto 2018,2018,139,4.2,Spain
+Finca Resalso 2019,2019,114.95,3.8,Spain
+Chardonnay 2016,2016,149.95,3.9,Argentina
+Ancient Vines Zinfandel 2018,2018,199,3.8,United States
+Crianza Rioja 2014,2014,119,3.7,Spain
+Rioja Reserva 2012,2012,249.95,4.2,Spain
+La Flor Malbec 2019,2019,90.30,3.9,Argentina
+Malbec 2018,2018,115,3.7,Argentina
+Pauillac (Grand Cru Classé) 2011,2011,1100,4.3,France
+Cabernet Sauvignon 2014,2014,129.95,3.8,Argentina
+Gentil 2018,2018,125,3.8,France
+Gran Reserva 2013,2013,184,4.1,Spain
+Freakshow Cabernet Sauvignon 2015,2015,199,4.0,United States
+Chardonnay 2016,2016,179,3.8,Chile
+Chardonnay 2018,2018,59.95,3.6,Argentina
+Viña Bosconia Reserva 2008,2008,220,4.1,Spain
+Albe Barolo 2016,2016,599,4.0,Italy
+Tinto 2016,2016,89.95,3.7,Portugal
+Freakshow Zinfandel 2017,2017,199,3.8,United States
+Reserva 2016,2016,215,3.8,Spain
+Pouilly-Fuissé 2018,2018,309,4.2,France
+Rosso di Montalcino 2018,2018,149,3.6,Italy
+Tinto 2018,2018,279.95,4.5,Spain
+Cabernet Sauvignon 2016,2016,165,3.7,United States
+Amaranta Montepulciano d'Abruzzo 2017,2017,159.95,4.2,Italy
+Malbec 2013,2013,149.95,4.1,Argentina
+Bolgheri Il Seggio 2017,2017,269,4.1,Italy
+The Pundit 2016,2016,285,3.9,United States
+Chardonnay 2017,2017,129.95,3.9,Argentina
+Jumilla Blue Label 2017,2017,199,4.2,Spain
+Pinot Noir Bourgogne 'Les Ursulines' 2018,2018,169,3.6,France
+Lobo e Falcão Wolf & Falcon Tinto 2019,2019,79,4.1,Portugal
+Earthquake Cabernet Sauvignon 2014,2014,279,4.1,United States
+Post Scriptum (de Chryseia) Douro 2017,2017,199,4.0,Portugal
+Sauvignon Winkl 2019,2019,159.95,4.2,Italy
+De Sangre 2013,2013,154.95,4.2,Argentina
+PSI 2018,2018,325,4.2,Spain
+Reserva 2015,2015,110,3.8,Spain
+Barrua 2011,2011,250,4.2,Italy
+Duas Quintas Tinto 2017,2017,79,4.0,Portugal
+Campo di Sasso Insoglio del Cinghiale 2018,2018,219.95,4.0,Italy
+Chardonnay 2018,2018,169,3.8,United States
+Viña Bosconia Reserva 2005,2005,275,4.1,Spain
+Chianti Classico 2016,2016,175,4.0,Italy
+Pizzella Malbec (Pizzella Family Vineyard) 2018,2018,99.95,4.1,Argentina
+Brunello di Montalcino 2013,2013,399,4.2,Italy
+Orion Primitivo 2018,2018,85,4.1,Italy
+Merlot 2017,2017,175,3.9,United States
+Les Darons Rouge 2016,2016,220,3.8,France
+Viña Bosconia Reserva 2006,2006,275,4.0,Spain
+Reserva Albariño 2019,2019,115,3.9,Uruguay
+Gran Enemigo 2015,2015,499.95,4.5,Argentina
+Crianza 2016,2016,129,3.6,Spain
+Chablis 2017,2017,150,3.8,France
+Boom Boom! Syrah 2017,2017,140,3.5,United States
+Bourgogne 'Les Sétilles' 2018,2018,209,4.1,France
+Gran Enemigo Single Vineyard Agrelo Cabernet Franc 2013,2013,599.95,4.5,Argentina
+Caravan Durif (a.k.a Petite Sirah) 2016,2016,109.75,3.7,Australia
+Viña Cubillo 2009,2009,149,3.8,Spain
+Belleruche Côtes-du-Rhône 2019,2019,75,3.7,France
+Ventoux Terrasses 2014,2014,79.95,3.7,France
+60 Sessantanni Old Vines Primitivo di Manduria 2017,2017,249,4.5,Italy
+Zinfandel 2016,2016,149,4.1,United States
+Terroir Selection Malbec 2015,2015,235,4.0,Argentina
+Reserva Merlot (Classic) 2018,2018,99,3.9,Chile
+Pieve Santa Restituta Brunello di Montalcino 2014,2014,495,4.3,Italy
+Malbec 2009,2009,149.95,3.9,Argentina
+Etna Rosso 2018,2018,169.95,3.9,Italy
+Costamolino Vermentino di Sardegna 2019,2019,79,3.9,Italy
+Double Pass Shiraz 2018,2018,79,4.0,Australia
+Angels' Share Shiraz 2019,2019,179.95,4.0,Australia
+Prazo de Roriz Douro 2016,2016,149,3.9,Portugal
+667 Pinot Noir 2018,2018,139,3.7,United States
+Tres Picos Garnacha 2018,2018,175,4.0,Spain
+Shiraz - Grenache 2019,2019,68,4.0,France
+Montessu 2016,2016,149.95,4.0,Italy
+Montebruna Barbera d'Asti 2016,2016,159.95,3.8,Italy
+Lugana San Benedetto 2019,2019,145,4.1,Italy
+Ribera del Duero Tinto 2016,2016,140,4.0,Spain
+Hermon Mount Hermon Red 2018,2018,119,3.8,Israel
+Montessu 2017,2017,149.95,4.1,Italy
+Barolo 2015,2015,185,3.8,Italy
+Passivento Rosso 2019,2019,93.17,3.9,Italy
+La Segreta Il Rosso 2017,2017,125,3.6,Italy
+Pinot Noir 2018,2018,129,3.6,United States
+Vintner's Reserve Cabernet Sauvignon 2017,2017,199,3.8,United States
+Côtes du Rhône 2015,2015,89.95,3.6,France
+M Malbec 2019,2019,75,3.8,Argentina
+Fuerza 2015,2015,99.95,3.8,Spain
+Brunello di Montalcino 2015,2015,399,4.4,Italy
+Coudoulet de Beaucastel Côtes-du-Rhône 2017,2017,310,4.0,France
+White Blend 2016,2016,175,3.7,United States
+Rouge 2018,2018,91.67,3.7,France
+Marius Grenache - Syrah 2019,2019,95,3.7,France
+Cuttings Cabernet Sauvignon 2015,2015,699,4.3,United States
+La Segreta Il Bianco 2016,2016,125,3.6,Italy
+Malbec 2015,2015,69.95,3.5,Argentina
+Almiréz 2015,2015,245,3.9,Spain
+Musar Jeune Rouge 2018,2018,129.95,3.9,Lebanon
+Pinot Noir 2018,2018,239,3.7,United States
+Dry Riesling 2018,2018,109,3.7,United States
+Ventoux Terrasses 2015,2015,79.95,3.7,France
+Côtes-du-Rhône Rouge 2017,2017,120,3.7,France
+Veraton Garnacha 2017,2017,199,4.3,Spain
+Single Vineyard Tannat 2016,2016,239.95,4.2,Uruguay
+Ribera Del Duero 12 Meses en Barrica (Crianza) 2016,2016,549.95,3.9,Spain
+Quatro Castas 4 2017,2017,119,3.9,Portugal
+Mea Culpa Rosso N.V.,9999,129,4.2,Italy
+Limited Selection Cabernet Sauvignon - Carmenère 2017,2017,125,3.8,Chile
+M Malbec 2018,2018,75,3.7,Argentina
+Petite Petit 2016,2016,189,3.9,United States
+Pinot Noir Bourgogne 'Les Ursulines' 2017,2017,225,3.6,France
+Mandolás Furmint 2017,2017,215,3.9,Hungary
+AN/2 2018,2018,159,4.0,Spain
+Côtes-du-Rhône Rouge 2009,2009,109.95,3.5,France
+Red 2018,2018,279.95,4.4,Spain
+Pinot Noir 2018,2018,269,4.0,United States
+Touriga Nacional 2018,2018,79,3.8,Portugal
+Pinot Noir 2017,2017,95,3.6,New Zealand
+Bricco dell'Uccellone Barbera d'Asti 2016,2016,499.95,4.3,Italy
+Toscana 2016,2016,229,3.9,Italy
+Rioja Reserva 2012,2012,159,4.2,Spain
+Cabernet Sauvignon 2019,2019,99,3.9,United States
+Falanghina 2018,2018,129,3.8,Italy
+Lugana Vigneto Massoni 2018,2018,165,4.1,Italy
+Barda Pinot Noir 2015,2015,149.95,3.9,Argentina
+Tinto 2016,2016,259.95,4.3,Spain
+Russian River Valley Pinot Noir 2018,2018,199,4.0,United States
+Sito Moresco Langhe 2017,2017,389.95,4.1,Italy
+Taurasi 2013,2013,169.95,3.9,Italy
+Montebruna Barbera d'Asti 2017,2017,169.95,3.9,Italy
+Cuvée Terlaner (Classico) 2016,2016,149.95,3.9,Italy
+Gran Enemigo Single Vineyard Chacayes Cabernet Franc 2014,2014,599.95,4.6,Argentina
+Monastrell 2018,2018,119,3.7,Spain
+Termes 2013,2013,199,3.9,Spain
+Vigneto Monte Sant'Urbano Amarone della Valpolicella Classico 2011,2011,429,4.3,Italy
+Pinot Noir 2017,2017,229,4.0,United States
+Montepulciano d'Abruzzo (Unico) 2018,2018,119,4.0,Italy
+Arneis Langhe Blangé 2015,2015,159.95,3.8,Italy
+Gran Enemigo Single Vineyard Chacayes Cabernet Franc 2015,2015,450,4.6,Argentina
+Chardonnay 2018,2018,159,3.8,United States
+Barbaresco 2017,2017,269.95,4.2,Italy
+Grand Estates Merlot 2015,2015,179,3.7,United States
+Malbec 2017,2017,179.95,3.7,Argentina
+Chardonnay 2016,2016,249.95,4.2,Argentina
+La Grola 2016,2016,249,4.0,Italy
+Tenuta Tignanello 'Marchese Antinori' Chianti Classico Riserva 2017,2017,255,4.3,Italy
+Single Vineyard Tannat 2017,2017,199.95,4.2,Uruguay
+de La Tierra 2018,2018,119,3.7,Spain
+Valpolicella Ripasso Classico Superiore 2018,2018,99,3.7,Italy
+Red Blend 2018,2018,69.95,3.8,Argentina
+Médoc 2016,2016,169.95,3.8,France
+Boira' Sangiovese 2018,2018,109,3.5,Italy
+Massal 1945 Carmenère 2016,2016,149.95,4.1,Chile
+Tinto N.V.,9999,39.95,3.3,Spain
+Amarone della Valpolicella Classico 2009,2009,879,4.4,Italy
+Zinfandel 2015,2015,159,3.8,United States
+Amon-Ra Shiraz 2012,2012,599,4.4,Australia
+Chardonnay 2015,2015,249.95,4.2,Argentina
+Cabernet Sauvignon (Cs) 2016,2016,229,3.8,United States
+Chardonnay 2013,2013,299.95,4.1,Argentina
+Côtes-du-Rhône Cuvée Philipson 2010,2010,79.95,3.5,France
+Vintner's Reserve Pinot Noir 2017,2017,199,3.7,United States
+Syrah 2017,2017,79.95,4.0,France
+Sangiovese Toscana 2019,2019,99,3.9,Italy
+Te Koko Sauvignon Blanc 2014,2014,419,4.1,New Zealand
+Appellation Malbec 2016,2016,139,4.0,Argentina
+Bourgogne Hautes-Côtes de Beaune 2016,2016,220,3.8,France
+Beaune du Château Premier Cru 2015,2015,1000,4.1,France
+Amarone della Valpolicella Classico 2016,2016,389,4.3,Italy
+Beaujolais-Villages Combe aux Jacques 2019,2019,109,3.8,France
+Dagromis Barolo 2015,2015,599.95,4.4,Italy
+Palazzo della Torre 2017,2017,139.95,4.1,Italy
+Grand Veneur Côtes du Rhône (Réserve) 2019,2019,119.95,3.7,France
+Zarihs Syrah 2016,2016,149,4.1,Spain
+Vigne Vecchie Gold Series Leggenda Primitivo di Manduria 2016,2016,169,4.3,Italy
+Taurasi 2014,2014,249,3.9,Italy
+KARIA Chardonnay 2017,2017,349,4.1,United States
+Bordeaux 2016,2016,99.95,3.6,France
+Barrua 2015,2015,250,4.1,Italy
+Appassite Negroamaro - Primitivo 2019,2019,89.17,4.1,Italy
+Brunello di Montalcino 2013,2013,345,4.2,Italy
+Cabernet Sauvignon Lot 2 N.V.,9999,195,4.0,United States
+Sonoma Coast Pinot Noir 2016,2016,389,4.2,United States
+7 Fuentes 2017,2017,150,3.3,Spain
+Beaune du Château Premier Cru 2016,2016,900,4.1,France
+Pinot Noir 2018,2018,179,3.7,Chile
+125 Uno Due Cinque Primitivo del Salento 2017,2017,65,4.0,Italy
+Touriga Nacional 2015,2015,199.95,4.0,Portugal
+Châteauneuf-du-Pape La Bernardine 2016,2016,349,4.2,France
+Birbet N.V.,9999,139.95,4.1,Italy
+Albariño 2016,2016,299,3.8,Spain
+Appassimento Rosso 2019,2019,89.17,4.3,Italy
+Rioja Reserva 2014,2014,179,4.0,Spain
+Cabernet Sauvignon 2018,2018,549,4.1,United States
+Gessamí 2018,2018,159.95,4.1,Spain
+Mt. Jefferson Cuvée Pinot Noir 2018,2018,299,4.2,United States
+Amarone della Valpolicella Classico 2016,2016,349,4.4,Italy
+Sauvignon Blanc 2018,2018,109.95,4.1,New Zealand
+Garnacha 2017,2017,295,4.5,Spain
+Cabernet Sauvignon - Shiraz 2018,2018,89,3.7,South Africa
+Barbera d'Asti Le Orme 2017,2017,139,3.6,Italy
+El Vivero de Usaldón Garnacha Colección Origen 2018,2018,49.50,3.7,Spain
+Cabernet Sauvignon 2017,2017,199,3.8,United States
+HEBO (Suvereto) 2017,2017,109,3.8,Italy
+Private Selection Old Vines Malbec 2014,2014,109.95,3.8,Argentina
+Papale Linea Oro Primitivo di Manduria 2017,2017,149,4.4,Italy
+Chardonnay Santa Barbara County 2018,2018,175,4.0,United States
+Ribera Del Duero Crianza 2015,2015,183,3.9,Spain
+Big Easy Red 2016,2016,149.95,3.8,South Africa
+Blu Onice Aglianico Irpinia 2017,2017,99.95,4.2,Italy
+Touriga Nacional 2012,2012,169.95,3.9,Portugal
+Rioja Crianza 2013,2013,170,3.8,Spain
+Toscana Le Cupole Rosso 2015,2015,240,4.1,Italy
+Haut-Médoc 2016,2016,79.95,3.8,France
+Cuvée Alexandre Cabernet Sauvignon (Apalta Vineyard) 2014,2014,159.95,4.0,Chile
+Côte-Rôtie Brune & Blonde de Guigal 2013,2013,369.95,4.1,France
+Chryseia Douro 2016,2016,579,4.5,Portugal
+Vigneto Monte Sant'Urbano Amarone della Valpolicella Classico 2015,2015,350,4.3,Italy
+Châteauneuf-du-Pape 2016,2016,315,4.1,France
+Chardonnay 2017,2017,249.95,4.2,Argentina
+Brunello di Montalcino 2014,2014,299.95,4.1,Italy
+Moulis-en-Médoc 2011,2011,314,4.0,France
+Geyserville 2017,2017,439,4.2,United States
+Tinto 2011,2011,89.95,3.7,Portugal
+Durif - Shiraz 2019,2019,69,4.0,Australia
+Bourgogne Couvent des Jacobins 2017,2017,379,3.8,France
+Grüner Veltliner Federspiel Terrassen 2019,2019,145,3.8,Austria
+Pauillac (Grand Cru Classé) 2014,2014,1074.95,4.3,France
+Gran Maestro Appassimento Rosso 2018,2018,65,3.9,Italy
+Châteauneuf-du-Pape 2015,2015,279,4.0,France
+Macán Clásico 2016,2016,295,4.3,Spain
+Pauillac (Grand Cru Classé) 2012,2012,1299,4.3,France
+Syrah 2019,2019,59,3.8,Spain
+Pouilly-Fuissé Tête de Cuvée 2018,2018,249.95,4.3,France
+Ca'Marcanda Magari 2017,2017,749,4.2,Italy
+Garnacha 2016,2016,295,4.3,Spain
+Malbec (I) 2018,2018,219,4.2,Argentina
+Valpolicella Superiore 2016,2016,159,3.8,Italy
+Gran Enemigo 2011,2011,499.95,4.4,Argentina
+Shiraz 2019,2019,69,4.0,Australia
+Reserva Duas Quintas Tinto 2014,2014,319,4.2,Portugal
+Red Zinfandel 2018,2018,115,3.9,Italy
+Chardonnay 2018,2018,249.95,4.1,Argentina
+Cabernet Franc 2013,2013,149.95,4.1,Argentina
+The Dead Arm Shiraz 2016,2016,425,4.0,Australia
+Tenuta San Giovanni Valdisanti 2012,2012,200,4.1,Italy
+Ripassa Valpolicella Ripasso Superiore 2017,2017,229,4.2,Italy
+Reserva (Field Blend) 2016,2016,249.95,4.2,Portugal
+Reserva (Field Blend) 2014,2014,249.95,4.1,Portugal
+The Lodge Hill Shiraz 2016,2016,119.95,3.7,Australia
+Toscana Rosso 2018,2018,89,3.9,Italy
+Le G de Guiraud Bordeaux Blanc Sec 2017,2017,169.95,3.9,France
+Toscana Le Cupole Rosso 2017,2017,225,4.1,Italy
+Gigondas 2016,2016,205,3.9,France
+Chateau Smith Cabernet Sauvignon 2016,2016,180,3.7,United States
+Tradition Blaye - Côtes de Bordeaux 2016,2016,165,3.9,France
+Morgon 2019,2019,250,4.2,France
+Sauvignon Blanc 2017,2017,89,3.7,United States
+Appassimento Rosso 2019,2019,89.95,4.0,Italy
+Alta Mora Etna Rosso 2015,2015,279.95,3.7,Italy
+Arneis Langhe Blangé 2019,2019,159.95,4.0,Italy
+Alexander (The Great) 2016,2016,245,4.2,Spain
+Noble Dragon 张裕解百纳 2013,2013,89,2.8,China
+Albariño 2018,2018,165,3.8,Spain
+Barbera d'Alba 2018,2018,249,4.0,Italy
+Barolo 2015,2015,429.95,4.2,Italy
+Viñas de Gain 2017,2017,179,4.0,Spain
+The Cover Drive Cabernet Sauvignon 2016,2016,109.95,3.7,Australia
+Amarone della Valpolicella Classico 2012,2012,699,4.2,Italy
+Gaba do Xil Godello 2018,2018,134.95,3.8,Spain
+Terre di San Leonardo 2015,2015,149,3.7,Italy
+Pauillac (Grand Cru Classé) 2011,2011,1849.95,4.3,France
+Barolo 2013,2013,160,3.8,Italy
+Cabernet Sauvignon 2014,2014,299.95,4.2,Argentina
+Ardèche Chardonnay 2018,2018,96,3.6,France
+Pinot Nero 2017,2017,434,3.9,Italy
+Haut-Médoc 2014,2014,290,4.0,France
+Gran Enemigo Single Vineyard El Cepillo Cabernet Franc 2014,2014,450,4.5,Argentina
+Valpolicella Ripasso Classico Superiore Lena di Mezzo 2017,2017,169,4.0,Italy
+Condrieu 2016,2016,400,4.0,France
+Blau 2018,2018,119,3.8,Spain
+Cometa 2018,2018,299,4.2,Italy
+Masseria Surani Dionysos Primitivo di Manduria Riserva 2015,2015,239,4.0,Italy
+Ronan by Clinet Bordeaux 2012,2012,129,3.3,France
+FAY Cabernet Sauvignon 2013,2013,999,4.4,United States
+Barolo 2015,2015,179.95,3.6,Italy
+Toscana Le Cupole Rosso 2016,2016,220,4.1,Italy
+Barolo Castiglione 2016,2016,479,4.2,Italy
+Thea's Selection Pinot Noir 2016,2016,299,4.1,United States
+Medalla Real Gold Medal (Limited Edition) Cabernet Sauvignon 2017,2017,79,3.9,Chile
+Barco Reale di Carmignano 2016,2016,139,3.7,Italy
+Cùmaro Conero Riserva 2013,2013,204.95,3.8,Italy
+Pinot Noir Bourgogne Vieilles Vignes 2016,2016,89.95,3.7,France
+Pé Branco 2019,2019,69,3.6,Portugal
+Alta Mora Etna Rosso 2014,2014,279.95,3.8,Italy
+Sauvignon Blanc Te Muna Road Vineyard 2019,2019,99.95,4.1,New Zealand
+Solosole Vermentino 2017,2017,199,3.9,Italy
+Cabernet Sauvignon (Mossfire Ranch) 2017,2017,249,3.8,United States
+Reserva Cabernet Franc 2017,2017,109.95,4.0,Uruguay
+Cuvée Réservée Châteauneuf-du-Pape Rouge 2012,2012,698,4.2,France
+Riesling 2019,2019,119,3.8,United States
+Terre Brune Superiore Carignano del Sulcis 2015,2015,399,4.2,Italy
+Touriga Nacional 2014,2014,199.95,4.0,Portugal
+Roero Arneis 2017,2017,219.95,3.9,Italy
+Roda Reserva Rioja 2016,2016,249.95,4.1,Spain
+Merlot 2016,2016,199,3.9,United States
+Liano Sangiovese - Cabernet Sauvignon 2016,2016,239,4.1,Italy
+Foradori - Teroldego 2014,2014,200,3.7,Italy
+Dominio de Atauta 2016,2016,350,4.2,Spain
+Tinto 2019,2019,65,3.9,Portugal
+AVETA Sauvignon Blanc 2017,2017,229,4.1,United States
+Reserva Cabernet Sauvignon 2013,2013,79.95,3.7,Chile
+Tessellae Vieilles Vignes Carignan 2017,2017,99.95,3.8,France
+Primitivo Puglia Edizione Limitata Terra Vera 2018,2018,99.95,3.8,Italy
+Petite Sirah - Petit Verdot 2016,2016,169,3.9,United States
+Castro Ventosa El Castro de Valtuille Mencía Joven 2018,2018,109,3.7,Spain
+Valpolicella Ripasso Classico Superiore 2017,2017,180,3.8,Italy
+Ca' di Pian Barbera d'Asti 2017,2017,169,4.0,Italy
+Gran Enemigo Single Vineyard Agrelo Cabernet Franc 2010,2010,599.95,4.5,Argentina
+Benuara (Tenuta Presti e Pegni) 2017,2017,99.95,4.0,Italy
+The Velvet Devil Merlot 2018,2018,105,3.6,United States
+Botrosecco Maremma Toscana 2017,2017,179,4.0,Italy
+Signos Malbec 2019,2019,85,4.0,Argentina
+FAY Cabernet Sauvignon 2014,2014,999,4.4,United States
+Vinha do Fava 2019,2019,65,4.1,Portugal
+Reserva 2016,2016,185,4.1,Spain
+Corralillo Syrah 2015,2015,170,4.0,Chile
+Chardonnay 2017,2017,179,3.8,Chile
+Unoaked Chardonnay 2017,2017,84.95,3.7,Argentina
+Noà (Tenuta Presti e Pregni) 2015,2015,249.95,3.9,Italy
+Chardonnay 2017,2017,90,3.6,New Zealand
+Lalande-de-Pomerol 2016,2016,220,4.0,France
+Cabernet Franc 2010,2010,149.95,4.1,Argentina
+Gessamí 2019,2019,129.95,4.2,Spain
+Sassoalloro 2016,2016,199,3.9,Italy
+Silver Unoaked Chardonnay 2015,2015,199,3.8,United States
+Amarone della Valpolicella Classico 2015,2015,319,4.1,Italy
+Organic Monastrell 2018,2018,69,3.7,Spain
+Roda I Reserva Rioja 2015,2015,449.95,4.4,Spain
+Cabernet Sauvignon Franschhoek 2014,2014,350,4.3,South Africa
+Chablis 'La Pierrelée' 2017,2017,119.95,3.8,France
+Toscana Le Cupole Rosso 2014,2014,220,3.9,Italy
+Nero d'Avola 2019,2019,79.95,3.5,Italy
+Paula Malbec 2019,2019,99,3.6,Argentina
+Cuvée Alexandre Cabernet Sauvignon (Apalta Vineyard) 2015,2015,159.95,3.9,Chile
+San Leonardo 2013,2013,499,4.2,Italy
+Ca'Marcanda Promis Toscana 2018,2018,225,4.2,Italy
+Freestone Vineyards Pinot Noir 2013,2013,400,4.2,United States
+Paul Sauer 2016,2016,429,4.4,South Africa
+Quarz Sauvignon 2015,2015,325,4.4,Italy
+Cuvée Alexandre Merlot (Apalta Vineyard) 2011,2011,149.95,3.8,Chile
+Crozes-Hermitage Domaine de Thalabert 2015,2015,399,4.0,France
+Ribera del Duero Crianza 2015,2015,339,3.8,Spain
+Flor de Vetus 2017,2017,120,3.7,Spain
+Montsant Acústic 2017,2017,160,4.0,Spain
+Lune d'Argent 2016,2016,159.95,3.7,France
+Appellation La Consulta Malbec 2014,2014,129.95,3.9,Argentina
+Chenin Blanc (Free-Run Steen) 2018,2018,85,3.6,South Africa
+Sela Rioja 2016,2016,159.95,3.9,Spain
+Bonarda 2018,2018,69.95,3.9,Argentina
+Earthquake Zinfandel 2017,2017,279,4.1,United States
+AVETA Sauvignon Blanc 2016,2016,239,4.1,United States
+Mother's Milk Shiraz 2016,2016,119.95,3.8,Australia
+Verdejo Rueda 2019,2019,119,4.0,Spain
+Nicolas Grenache Noir 2017,2017,99.95,3.9,France
+Touriga Nacional 2017,2017,239.95,4.1,Portugal
+Pino Doncel 12 Meses 2016,2016,299,4.1,Spain
+Blanco Fermentado en Barrica 2018,2018,120,3.7,Spain
+Valpolicella Ripasso 2018,2018,129.95,3.7,Italy
+Anima de Raimat Tinto 2015,2015,119,3.8,Spain
+Wild Sauvignon 2014,2014,199.95,4.2,New Zealand
+Blindfold White Blend 2017,2017,339,4.0,United States
+Pessac-Léognan 2013,2013,295,3.8,France
+Chianti Classico 2017,2017,175,4.1,Italy
+Quintaluna 2016,2016,129.95,3.6,Spain
+Cabernet Sauvignon Franschhoek 2015,2015,350,4.3,South Africa
+Syrah Les Vignes d'à Côté 2018,2018,139,3.8,France
+San Vincenzo 2019,2019,159,4.0,Italy
+Pinot Noir 2018,2018,269,3.9,New Zealand
+Terre di San Leonardo 2016,2016,149,3.8,Italy
+Bella's Garden Shiraz 2016,2016,350,4.2,Australia
+Joseph Gewürztraminer 2018,2018,169,4.1,Italy
+Cellar Selection Pinot Noir 2014,2014,179,3.7,New Zealand
+Lindes de Remelluri Viñedos de Labastida 2015,2015,199.95,3.9,Spain
+Arneis Roero 2019,2019,189,3.9,Italy
+Les Amandiers N.V.,9999,159,4.0,France
+Mai The First A.Montes Malbec 2014,2014,499,4.4,Argentina
+Ritme Vinyes Velles Boniques 2017,2017,500,4.0,Spain
+Finca Azaya 2017,2017,139,4.1,Spain
+Ribera Del Duero Crianza 2016,2016,195,3.9,Spain
+Ultra Cabernet Sauvignon 2015,2015,179,3.8,Argentina
+Gocce Primitivo di Manduria 2016,2016,129,4.2,Italy
+1 Uno Primitivo di Manduria 2019,2019,99,4.1,Italy
+Ribera del Duero Red 2015,2015,175,4.1,Spain
+Cosecha 2017,2017,425,4.4,Spain
+Rosso di Montalcino 2016,2016,199,4.0,Italy
+Nero d'Avola 2016,2016,119,3.8,Italy
+Monastrell 2017,2017,114.95,3.8,Spain
+Pinot Grigio 2019,2019,75,3.9,Argentina
+Le Rouge 2015,2015,129.95,3.8,Chile
+Meursault 2015,2015,499,4.3,France
+Côtes du Rhône Nature Rouge 2018,2018,121.67,3.6,France
+Grey (Glacier) Cabernet Sauvignon 2017,2017,115,3.9,Chile
+Château d'Ampuis Côte-Rôtie 2012,2012,795,4.2,France
+Barrua 2016,2016,250,4.2,Italy
+Selección de Familia Reserva 2012,2012,159,3.8,Spain
+The Hermit Crab Viognier - Marsanne 2018,2018,125,3.8,Australia
+Seminare Malbec 2016,2016,650,4.2,Argentina
+Crozes-Hermitage Les Jalets 2017,2017,249,3.9,France
+Douro Duas Quintas Branco 2018,2018,119,4.0,Portugal
+Gnarly Dudes Shiraz 2019,2019,179.95,4.0,Australia
+Estate Vineyards Syrah (Shiraz) 2013,2013,209.95,4.2,South Africa
+My Favorite Neighbor Cabernet Sauvignon 2017,2017,599,4.4,United States
+M Mencía Bierzo LB 2016,2016,74.95,3.3,Spain
+Rafaèl Valpolicella Classico Superiore 2018,2018,145,3.9,Italy
+Cartoixa Priorat 2016,2016,369,3.9,Spain
+Syrah 2017,2017,139,4.0,United States
+Gran Enemigo Single Vineyard Agrelo Cabernet Franc 2016,2016,599.95,4.7,Argentina
+Ribera del Duero 2016,2016,300,4.0,Spain
+Crianza 2017,2017,130,3.8,Spain
+Albariño 2017,2017,159.95,3.9,Spain
+Cannonau di Sardegna 2018,2018,99,3.4,Italy
+Villa Antinori Rosso 2018,2018,129,3.8,Italy
+Cellar Selection Pinot Noir 2018,2018,70,3.3,New Zealand
+Gran Reserva Carmenère 2018,2018,89.95,3.8,Chile
+Bourgogne Couvent des Jacobins 2018,2018,169,3.9,France
+Chablis 1er Cru 'Fourchaume' 2014,2014,250,4.1,France
+Gimblett Gravels Vineyard Te Kahu 2013,2013,149.95,3.8,New Zealand
+Byzantium Primitivo di Manduria 2018,2018,89,4.1,Italy
+Pinot Noir 2016,2016,175,3.7,United States
+Bordeaux Merlot - Cabernet Sauvignon 2017,2017,79,3.3,France
+Zinfandel 2019,2019,72,4.1,United States
+Il Bacialé Monferrato Rosso 2016,2016,129.95,3.8,Italy
+Estate Red 2015,2015,319.95,4.3,South Africa
+Santa Maria Valley Pinot Noir 2017,2017,199,4.1,United States
+Esprit de Pavie Bordeaux 2012,2012,239,3.8,France
+Quarz Sauvignon 2016,2016,325,4.4,Italy
+Sancerre Rouge Les Baronnes 2017,2017,209,3.9,France
+Pinot Noir 2018,2018,329.95,4.0,United States
+Gimblett Gravels Vineyard Te Kahu 2011,2011,149.95,3.8,New Zealand
+Côte de Beaune Villages 2014,2014,149,3.7,France
+Numina Gran Corte 2017,2017,169,4.2,Argentina
+Reserva 2016,2016,249.95,4.4,Spain
+Barda Pinot Noir 2019,2019,199.95,3.9,Argentina
+Sonoma Coast Pinot Noir 2015,2015,359,4.3,United States
+Barbera d'Asti Camp du Rouss 2015,2015,429,3.8,Italy
+Appassite 2018,2018,82,4.1,Italy
+Saint-Joseph 2015,2015,179.95,3.9,France
+Ribera del Duero Crianza 2017,2017,169,3.9,Spain
+Corimbo I 2014,2014,375,4.2,Spain
+Sonoma Coast Pinot Noir 2018,2018,149,3.9,United States
+Secreto Malbec 2016,2016,89.95,3.6,Chile
+Langhe Nebbiolo 2019,2019,109.95,3.8,Italy
+Chablis 2018,2018,195,4.1,France
+Reserva Cabernet Sauvignon 2014,2014,75,3.5,Argentina
+Castel del Monte Trentangeli Rosso 2015,2015,169,3.8,Italy
+Malbec 2017,2017,299.95,4.3,Argentina
+Gran Enemigo Single Vineyard El Cepillo Cabernet Franc 2015,2015,599.95,4.5,Argentina
+Pessac-Léognan (Grand Cru Classé de Graves) 2015,2015,749.95,4.3,France
+Pinot Noir Te Muna Road Vineyard 2011,2011,199.95,3.9,New Zealand
+Sonoma County Pinot Noir 2016,2016,249,3.8,United States
+Appellation Paraje Altamira Malbec 2018,2018,129.95,4.0,Argentina
+Vatan Tinta de Toro 2014,2014,299,4.1,Spain
+Origin Pinot Noir 2018,2018,145,3.4,New Zealand
+Montepulciano d'Abruzzo Colline Teramane Riserva Zanna 2011,2011,169.95,4.0,Italy
+Syrah 2014,2014,199.95,3.9,South Africa
+Al-Muvedre Tinto Monastrell 2016,2016,59.95,3.6,Spain
+Mathilda Shiraz 2017,2017,175,3.7,Australia
+Terre di San Leonardo 2014,2014,149,3.6,Italy
+Nussbaumer Gewürztraminer 2018,2018,300,4.3,Italy
+Bourgogne Chardonnay 2017,2017,279,3.9,France
+La Garnatxa Fosca del Priorat 2018,2018,189,3.8,Spain
+Yeya Moscatel - Chardonnay 2018,2018,85,3.9,Spain
+Sangiovese Riserva 2017,2017,169,4.0,Italy
+Tenuta Nuova Brunello di Montalcino 2015,2015,699,4.6,Italy
+Riesling 2017,2017,179,3.7,Australia
+Torrontes 2018,2018,69.95,3.7,Argentina
+Barolo del Comune di Serralunga d'Alba 2016,2016,529,4.3,Italy
+Rioja Reserva 2015,2015,135,3.8,Spain
+Pomerol 2011,2011,769.95,4.0,France
+Primitivo 2018,2018,129,3.8,Italy
+Sauvignon Blanc 2019,2019,139,3.6,South Africa
+Cellar Selection Pinot Noir 2019,2019,85,3.3,New Zealand
+Saumur-Champigny 2016,2016,149.95,3.7,France
+Barolo del Comune di Serralunga d'Alba 2015,2015,459,4.2,Italy
+Russian River Valley Pinot Noir 2016,2016,499.95,3.9,United States
+Appellation San Carlos Cabernet Franc 2018,2018,129.95,4.1,Argentina
+Maremma Toscana Ornello 2015,2015,189,3.9,Italy
+Tonel 46 Reserva Malbec 2016,2016,139,3.6,Argentina
+Syrah 2015,2015,199.95,3.9,South Africa
+Bourgogne Pinot Noir 2019,2019,139.50,3.7,France
+Pecorino (Unico) 2019,2019,119,4.0,Italy
+Suadens Campania Rosso 2018,2018,129,4.2,Italy
+Lagrein Riserva Gries 2015,2015,195,4.1,Italy
+Passorosso 2015,2015,250,4.0,Italy
+Lune d'Argent 2017,2017,159.95,3.8,France
+Cabernet Sauvignon 2017,2017,499,4.3,United States
+Pauillac (Grand Cru Classé) 2015,2015,1399.95,4.5,France
+Nero di Troia 2018,2018,79,4.0,Italy
+Chablis 2018,2018,379.95,4.1,France
+Morillon Blanc 2019,2019,150,4.2,France
+Pinot Noir 2017,2017,179,3.8,United States
+Baía de Troia Castelão 2019,2019,79,4.1,Portugal
+Langhe Nebbiolo 2018,2018,235,3.9,Italy
+Saint-Émilion Grand Cru 2015,2015,180,3.9,France
+Chardonnay 2014,2014,199.95,4.0,Argentina
+El Hombre Bala 2016,2016,269,3.6,Spain
+Is Argiolas Vermentino di Sardegna 2019,2019,125,4.0,Italy
+Reserva 2014,2014,250,4.2,Spain
+Liberty Nages Rouge Vin de France N.V.,9999,99,3.5,France
+Cabernet Sauvignon 2009,2009,149.95,3.8,Argentina
+Bella's Garden Shiraz 2017,2017,350,4.2,Australia
+San Leonardo 2014,2014,599,4.2,Italy
+Magna Malbec 2016,2016,105,3.5,Argentina
+Pinot Noir Te Muna Road Vineyard 2013,2013,199.95,3.8,New Zealand
+Crozes-Hermitage Blanc 2016,2016,175,3.7,France
+Cellar Selection Marlborough Sauvignon Blanc 2020,2020,120,3.8,New Zealand
+Xisto Ilimitado 2018,2018,150,3.8,Portugal
+Secreto Syrah 2015,2015,89.95,3.6,Chile
+Pinot Noir 2017,2017,139,3.3,United States
+Grey (Glacier) Carménère 2016,2016,115,4.0,Chile
+Viognier Les Vignes d'à Côté 2018,2018,199,4.0,France
+Tenuta San Giovanni Valdisanti 2010,2010,200,4.1,Italy
+Cabernet Sauvignon 2012,2012,359.95,4.2,Argentina
+Ca'Marcanda Vistamare Toscana 2018,2018,325,4.1,Italy
+Selección Especial (Reserva) 2016,2016,299,4.3,Spain
+Quarz Sauvignon 2017,2017,325,4.4,Italy
+Vinsobres Les Cornuds 2016,2016,135.83,3.8,France
+Gran Reserva 2011,2011,259,3.9,Spain
+Sauvignon Blanc 2017,2017,299,4.1,United States
+Pinot Grigio delle Venezie 2018,2018,99,3.8,Italy
+Château d'Ampuis Côte-Rôtie 2010,2010,1794.95,4.2,France
+Valpolicella Classico 2016,2016,350,3.5,Italy
+Clio 2018,2018,329,4.5,Spain
+Appellation San Carlos Cabernet Franc 2014,2014,129.95,3.9,Argentina
+Zisola Azisa Sicilia 2017,2017,119,3.7,Italy
+Syrah 2016,2016,199.95,3.9,South Africa
+Bernardeschi Governo 2017,2017,79,4.1,Italy
+Bella's Garden Shiraz 2015,2015,349.95,4.2,Australia
+Vintner's Reserve Zinfandel 2018,2018,149,3.8,United States
+Pessac-Léognan (Grand Cru Classé de Graves) 2011,2011,499,4.2,France
+Pessac-Léognan Blanc (Grand Cru Classé de Graves) 2017,2017,325,4.1,France
+20 Aldeas 2018,2018,199.95,4.1,Spain
+Appellation Tupungato Chardonnay 2017,2017,129.95,3.9,Argentina
+Pouilly-Fumé Domaine des Fines Caillottes 2019,2019,199,4.1,France
+Il Nero di Casanova Terre di Pisa Sangiovese 2016,2016,209,3.8,Italy
+Chianti 2018,2018,79.95,3.5,Italy
+Pinot Noir (G Lot) 2015,2015,149.95,4.1,Argentina
+Pago Negralada Tempranillo 2014,2014,799.95,4.4,Spain
+Atteca Garnacha (Old Vines) 2017,2017,119,4.1,Spain
+Perbacco Nebbiolo 2018,2018,199,4.0,Italy
+Cabernet Sauvignon 2013,2013,299.95,4.2,Argentina
+Gigondas Romane Machotte Rouge 2015,2015,500,3.8,France
+Gran Reserva Cabernet Sauvignon 2015,2015,62,3.6,Chile
+Châteauneuf-du-Pape 2015,2015,898,4.4,France
+Pinot Noir Te Muna Road Vineyard 2012,2012,199.95,3.9,New Zealand
+Chardonnay 2019,2019,99,3.4,France
+Moulis-en-Médoc 2015,2015,349,3.9,France
+Pinot Noir 2014,2014,225,3.9,New Zealand
+Saint-Émilion Grand Cru (Grand Cru Classé) 2014,2014,449.95,4.1,France
+Toscana Le Cupole Rosso 2010,2010,350,4.1,Italy
+La Réserve de Malartic (Le Sillage) Pessac-Léognan 2015,2015,259.95,4.1,France
+Arele Rosso (Appassimento) 2015,2015,165,3.9,Italy
+Saint-Julien (Grand Cru Classé) 2016,2016,685,4.1,France
+Signos Malbec 2018,2018,85,3.4,Argentina
+Saint-Estèphe 2014,2014,299,4.0,France
+Château d'Ampuis Côte-Rôtie 2013,2013,795,4.1,France
+Cabernet Sauvignon 2015,2015,299.95,4.2,Argentina
+Semele 2017,2017,165,3.7,Spain
+Pinot Noir Reserva 2015,2015,79.95,3.6,Chile
+Napa Valley Cabernet Sauvignon 2017,2017,199,3.9,United States
+Blanc 2019,2019,67,4.1,France
+Appellation La Consulta Malbec 2015,2015,129.95,4.0,Argentina
+Châteauneuf-du-Pape 2016,2016,269.95,4.3,France
+Toscana Le Cupole Rosso 2011,2011,350,4.0,Italy
+Massal 1945 Cabernet Sauvignon 2016,2016,149.95,4.0,Chile
+HEBO (Suvereto) 2018,2018,109,3.8,Italy
+Ventoux Quintessence 2015,2015,159.95,4.0,France
+Ribera Del Duero Reserva 2012,2012,249,4.2,Spain
+Corralillo Cabernet Sauvignon 2015,2015,200,4.0,Chile
+Vieilles Vignes Rouge Costières de Nîmes 2017,2017,149,3.6,France
+Jumilla Yellow Label 2019,2019,49.95,3.8,Spain
+La Côte Sauvage Cairanne 2015,2015,379,4.2,France
+Noà (Tenuta Presti e Pregni) 2014,2014,249.95,4.1,Italy
+Alastro 2016,2016,179,3.7,Italy
+Chianti 2018,2018,95,3.3,Italy
+Altitud Malbec 2016,2016,169,3.8,Argentina
+Paralléle 45 Côtes du Rhône Rouge 2018,2018,129,3.6,France
+Reserva (Field Blend) 2017,2017,249.95,4.2,Portugal
+Pauillac de Latour 2014,2014,699.95,4.2,France
+Crozes-Hermitage Les Meysonniers 2018,2018,175,3.9,France
+Basa Blanco 2019,2019,79.95,3.9,Spain
+Limne 2018,2018,89,4.0,Italy
+Sauvignon Blanc 2016,2016,299,4.1,United States
+Brunello di Montalcino 2012,2012,340,4.2,Italy
+Berola 2016,2016,139.50,4.0,Spain
+Cold Creek Vineyard Cabernet Sauvignon 2015,2015,349,4.1,United States
+La Poja (Monovitigno Corvina Veronese) 2013,2013,699,4.3,Italy
+Fumé Blanc 2018,2018,329,3.8,United States
+Chablis 2018,2018,179.75,3.9,France
+Superior (Organic Vineyards) 2016,2016,159.95,3.8,Portugal
+Condrieu La Doriane 2016,2016,695,4.2,France
+Granja Gran Reserva Rioja 2009,2009,350,4.3,Spain
+Chryseia Douro 2017,2017,579,4.6,Portugal
+Pomerol 2014,2014,239,4.0,France
+Amon-Ra Shiraz 2014,2014,599,4.4,Australia
+Saint-Julien 2015,2015,399,3.9,France
+Brunello di Montalcino 2013,2013,375,4.1,Italy
+Château d'Ampuis Côte-Rôtie 2009,2009,1794.95,4.3,France
+Bricco dell'Uccellone Barbera d'Asti 2017,2017,499.95,4.4,Italy
+Pieve Santa Restituta Brunello di Montalcino 2015,2015,599.95,4.4,Italy
+Appassimento 2018,2018,79,4.0,Italy
+Siepi 2015,2015,849,4.4,Italy
+Valpolicella Ripasso Superiore 2018,2018,139,4.0,Italy
+Vermentino di Sardegna 2019,2019,99,3.4,Italy
+Pouilly-Fuissé 2015,2015,600,3.8,France
+The Hermit Crab Viognier - Marsanne 2017,2017,125,3.8,Australia
+Paula Cabernet Sauvignon 2018,2018,99,3.6,Argentina
+Pinotage 2016,2016,79,3.7,South Africa
+Old Vines White 2017,2017,179.95,4.2,South Africa
+Classic Gewürztraminer 2016,2016,105,3.8,France
+Alta Mora Etna Rosso 2017,2017,139.95,3.8,Italy
+Gran Reserva Cabernet Sauvignon 2013,2013,89.95,3.6,Chile
+Belpasso Rosso 2017,2017,99,3.7,Italy
+Toscana I Sodi di San Niccolo 2012,2012,599,4.2,Italy
+Cerro Añon Rioja Gran Reserva 2011,2011,120,4.2,Spain
+Syrah 2016,2016,350,4.0,South Africa
+Brunello di Montalcino Montosoli 2012,2012,599.95,4.3,Italy
+Barbera d'Alba 2018,2018,175,3.9,Italy
+Garnacha - Syrah 2018,2018,59.95,3.4,Spain
+Saint-Émilion Grand Cru (Grand Cru Classé) 2015,2015,275,4.0,France
+Château du Vieux-Guinot Saint-Emilion Grand Cru 2015,2015,199,4.1,France
