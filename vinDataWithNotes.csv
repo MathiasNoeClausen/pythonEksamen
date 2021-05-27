@@ -1,4 +1,4 @@
-Name,Year,Price,Rating,Country,Winetype,Bold,Sweet,Acidity
+Name,Year,Price,Rating,Country,Winetype,Boldness,Sweetness,Acidity
 Côtes de Provence Rosé,2019,195,3.9,France,Rosé wine,29.5327,0.24085,66.1146
 By.Ott Rosé,2019,169,3.9,France,Rosé wine,28.8768,0.394875,66.0116
 Prestige Rosé,2018,169,3.9,France,Rosé wine,39.6137,3.13283,53.502
