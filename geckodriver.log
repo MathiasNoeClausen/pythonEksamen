@@ -3603,3 +3603,23 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 (/usr/lib/firefox/firefox:5121): GLib-GObject-CRITICAL **: 00:18:47.252: g_object_set: assertion 'G_IS_OBJECT (object)' failed
 1622074858878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile51sc9A"
 *** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+
+(/usr/lib/firefox/firefox:5252): GLib-GObject-CRITICAL **: 00:20:59.454: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:5275): GLib-GObject-CRITICAL **: 00:20:59.518: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622074860207	Marionette	INFO	Listening on port 44861
+1622074860296	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5341): GLib-GObject-CRITICAL **: 00:21:00.460: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: , line 0: TypeError: There was a problem connecting to Vivino
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://www.vivino.com/assets/application-6143bf211720a134d0983ad839b449c5f1b508c8fb817cdc0be928a1e9615a60.js, line 92: TypeError: $(...).slider is not a function
