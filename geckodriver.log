@@ -3922,7 +3922,11 @@ console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resou
 1622112526672	Marionette	WARN	TLS certificate errors will be ignored for this session
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
 
+<<<<<<< HEAD
 1622119398481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile345u4B"
+=======
+1622115263464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileefymu2"
+>>>>>>> c0bf87bf3c0a043846b1cb9d63e6c2f99f9bad10
 *** You are running in headless mode.
 [GFX1-]: glxtest: libpci missing
 [GFX1-]: glxtest: libEGL initialize failed
@@ -3930,6 +3934,7 @@ console.log: WebExtensions: reset-default-search: No addons in our list are inst
 [GFX1-]: glxtest: libEGL initialize failed
 [GFX1-]: No GPUs detected via PCI
 
+<<<<<<< HEAD
 (/usr/lib/firefox/firefox:5130): GLib-GObject-CRITICAL **: 12:43:19.060: g_object_set: assertion 'G_IS_OBJECT (object)' failed
 
 (/usr/lib/firefox/firefox:5153): GLib-GObject-CRITICAL **: 12:43:19.125: g_object_set: assertion 'G_IS_OBJECT (object)' failed
@@ -4037,6 +4042,17 @@ Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
 1622149992549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoo2n6v"
+=======
+(/usr/lib/firefox/firefox:1687): GLib-GObject-CRITICAL **: 11:34:30.046: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:1712): GLib-GObject-CRITICAL **: 11:34:30.457: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:1770): GLib-GObject-CRITICAL **: 11:34:34.100: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622115276289	Marionette	INFO	Listening on port 40755
+1622115276770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622115388541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesPMAyT"
+>>>>>>> c0bf87bf3c0a043846b1cb9d63e6c2f99f9bad10
 *** You are running in headless mode.
 [GFX1-]: glxtest: libpci missing
 [GFX1-]: glxtest: libEGL initialize failed
@@ -4044,6 +4060,7 @@ Exiting due to channel error.
 [GFX1-]: glxtest: libEGL initialize failed
 [GFX1-]: No GPUs detected via PCI
 
+<<<<<<< HEAD
 (/usr/lib/firefox/firefox:6682): GLib-GObject-CRITICAL **: 21:13:13.162: g_object_set: assertion 'G_IS_OBJECT (object)' failed
 
 (/usr/lib/firefox/firefox:6705): GLib-GObject-CRITICAL **: 21:13:13.226: g_object_set: assertion 'G_IS_OBJECT (object)' failed
@@ -4161,3 +4178,15 @@ JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.j
 JavaScript error: , line 0: TypeError: There was a problem connecting to Vivino
 JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
 JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+=======
+(/usr/lib/firefox/firefox:1906): GLib-GObject-CRITICAL **: 11:36:40.339: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:1914): GLib-GObject-CRITICAL **: 11:36:42.476: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622115417272	Marionette	INFO	Listening on port 45281
+1622115418176	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:1996): GLib-GObject-CRITICAL **: 11:36:59.405: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+>>>>>>> c0bf87bf3c0a043846b1cb9d63e6c2f99f9bad10

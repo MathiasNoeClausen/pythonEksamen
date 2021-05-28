@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Name,Year,Price,Rating,Country,Winetype,Boldness,Sweetness,Acidity
 Côtes de Provence Rosé,2019,195,3.9,France,Rosé wine,29.5327,0.24085,66.1146
 By.Ott Rosé,2019,169,3.9,France,Rosé wine,28.8768,0.394875,66.0116
@@ -123,3 +124,5 @@ Loren Syrah,2017,129,3.9,Italy,Rosé wine,0,0,0
 Astérides Rosé,2019,109,3.5,France,Rosé wine,37.7151,0.0001,56.1263
 Il Rosé di Casanova,2020,159,4.1,Italy,Rosé wine,0,0,0
 Outlier Wine,2020,100,3.8,France,Outlier,80,80,80
+=======
+>>>>>>> c0bf87bf3c0a043846b1cb9d63e6c2f99f9bad10
