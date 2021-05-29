@@ -4190,3 +4190,231 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
 >>>>>>> c0bf87bf3c0a043846b1cb9d63e6c2f99f9bad10
+1622201823905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3bU2hs"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+
+(/usr/lib/firefox/firefox:211): GLib-GObject-CRITICAL **: 11:37:04.515: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:234): GLib-GObject-CRITICAL **: 11:37:04.578: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622201825387	Marionette	INFO	Listening on port 37749
+1622201825428	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:306): GLib-GObject-CRITICAL **: 11:37:05.546: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1622201993851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9GJdnb"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+
+(/usr/lib/firefox/firefox:424): GLib-GObject-CRITICAL **: 11:39:54.419: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:447): GLib-GObject-CRITICAL **: 11:39:54.488: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622201995217	Marionette	INFO	Listening on port 39163
+1622201995278	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:515): GLib-GObject-CRITICAL **: 11:39:55.430: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622202076763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9zIYBu"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+
+(/usr/lib/firefox/firefox:636): GLib-GObject-CRITICAL **: 11:41:17.335: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:659): GLib-GObject-CRITICAL **: 11:41:17.403: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622202078191	Marionette	INFO	Listening on port 44273
+1622202078291	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:729): GLib-GObject-CRITICAL **: 11:41:18.396: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+1622207703438	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ5LXVv"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+
+(/usr/lib/firefox/firefox:1115): GLib-GObject-CRITICAL **: 13:15:04.071: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:1138): GLib-GObject-CRITICAL **: 13:15:04.147: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:1204): GLib-GObject-CRITICAL **: 13:15:05.129: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622207705163	Marionette	INFO	Listening on port 35079
+1622207705262	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1622208322063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7Y3t2q"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+
+(/usr/lib/firefox/firefox:1390): GLib-GObject-CRITICAL **: 13:25:22.696: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:1413): GLib-GObject-CRITICAL **: 13:25:22.761: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622208323703	Marionette	INFO	Listening on port 41655
+
+(/usr/lib/firefox/firefox:1480): GLib-GObject-CRITICAL **: 13:25:23.750: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622208323784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: There was a problem connecting to Vivino
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: There was a problem connecting to Vivino
+JavaScript error: , line 0: TypeError: There was a problem connecting to Vivino
+JavaScript error: , line 0: TypeError: There was a problem connecting to Vivino
+JavaScript error: , line 0: TypeError: There was a problem connecting to Vivino
+JavaScript error: , line 0: TypeError: There was a problem connecting to Vivino
+JavaScript error: , line 0: TypeError: There was a problem connecting to Vivino
+JavaScript error: , line 0: TypeError: There was a problem connecting to Vivino
+JavaScript error: , line 0: TypeError: There was a problem connecting to Vivino
+JavaScript error: , line 0: TypeError: There was a problem connecting to Vivino
+JavaScript error: , line 0: TypeError: There was a problem connecting to Vivino
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+1622248481521	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKJKvY8"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+
+(/usr/lib/firefox/firefox:200): GLib-GObject-CRITICAL **: 00:34:42.805: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:223): GLib-GObject-CRITICAL **: 00:34:42.888: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622248483804	Marionette	INFO	Listening on port 43203
+
+(/usr/lib/firefox/firefox:297): GLib-GObject-CRITICAL **: 00:34:43.846: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622248483851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: , line 0: TypeError: There was a problem connecting to Vivino
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: , line 0: TypeError: There was a problem connecting to Vivino
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: , line 0: TypeError: There was a problem connecting to Vivino
+JavaScript error: , line 0: TypeError: There was a problem connecting to Vivino
+JavaScript error: , line 0: TypeError: There was a problem connecting to Vivino
+JavaScript error: , line 0: TypeError: There was a problem connecting to Vivino
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/assets/application-6143bf211720a134d0983ad839b449c5f1b508c8fb817cdc0be928a1e9615a60.js, line 92: TypeError: $(...).slider is not a function
+1622250039115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWh5Q3o"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+
+(/usr/lib/firefox/firefox:530): GLib-GObject-CRITICAL **: 01:00:39.738: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:553): GLib-GObject-CRITICAL **: 01:00:39.805: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622250040508	Marionette	INFO	Listening on port 36535
+1622250040537	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:623): GLib-GObject-CRITICAL **: 01:00:40.745: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1622250854514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXDg4AL"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+
+(/usr/lib/firefox/firefox:792): GLib-GObject-CRITICAL **: 01:14:15.125: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:815): GLib-GObject-CRITICAL **: 01:14:15.191: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622250855908	Marionette	INFO	Listening on port 40321
+1622250855938	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:885): GLib-GObject-CRITICAL **: 01:14:16.136: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1622251682732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDW04ot"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+
+(/usr/lib/firefox/firefox:1037): GLib-GObject-CRITICAL **: 01:28:03.342: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:1058): GLib-GObject-CRITICAL **: 01:28:03.407: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622251684183	Marionette	INFO	Listening on port 42853
+1622251684252	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:1126): GLib-GObject-CRITICAL **: 01:28:04.374: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/assets/application-6143bf211720a134d0983ad839b449c5f1b508c8fb817cdc0be928a1e9615a60.js, line 92: TypeError: $(...).slider is not a function
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+JavaScript error: https://www.vivino.com/packs/navigation-6f24ac74b604a14b6a9f.js, line 1: CustomError: 401 Unauthorized
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
