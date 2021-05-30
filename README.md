@@ -1,16 +1,22 @@
 Wine analysis exam project
 
 I dette projekt vil vi scrape de forskellige oplysninger der findes om vine fra vivino.com.
-Det skal så analyseres på bl.a. rating, antal reviews, pris og smagsnoter, så vi kan bestemme fx. hvilken vin der var højest rated i 2009.
+Det skal så analyseres på bl.a. rating, antal reviews, pris og smagsnoter, så vi kan bestemme fx. hvilken vin der var højest rated i 2009 og om der er en correlation mellem smagsnoter og pris.
+
+USER GUIDE
+Alle metoder der bliver brugt til at hente, analysere og illustrere data ligger i mappen 'Project_Main'. Burde bare kunne køres og så henter den selv fra py filerne.
 
 USED TECHNOLOGIES
-
-NEED TO IMPORT:
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.firefox.options import Options
+from mpl_toolkits.mplot3d import Axes3D
+from sklearn.cluster import MeanShift, estimate_bandwidth
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import r2_score
+from sklearn.linear_model import LinearRegression
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -26,6 +32,9 @@ describe_df (Beskriver hvor mange vine der er fra de enkelte lande samt data på
 max_rating_df (Finder de bedste vine for hvert år, og laver et nyt dataframe ud fra det.)
 plot_max_df (Tager det nye dataframe fra max_rating_df og laver to grafer, en der viser højeste rating på vin for hvert år og en der viser reviews på de samme vin)
 max_occurences (Viser hvor mange gange hvert land har haft den bedste vin)
+
+
+
 
 Viser grafer for de forskellige typer vin:
 red_df,
