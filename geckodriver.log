@@ -4587,3 +4587,5 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1622378046497	Marionette	INFO	Listening on port 33039
 1622378046549	Marionette	WARN	TLS certificate errors will be ignored for this session
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1622379759735	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSpzXbz"
+*** You are running in headless mode.

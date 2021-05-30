@@ -232,7 +232,7 @@ def plot_white(white_df):
 # In[83]:
 
 
-def plot_sparkling(sparkling.df):
+def plot_sparkling(sparkling_df):
     #sparkling_df = pd.read_csv('sparklingwinedata.csv', names=["Name", "Year", "Price", "Rating", "Review", "Country"])
     sparkling_df.drop(sparkling_df[sparkling_df.Review < 95].index, inplace=False)
     return plot_rating(sparkling_df)
