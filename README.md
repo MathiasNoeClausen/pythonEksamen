@@ -12,7 +12,7 @@ Alle metoder der bliver brugt til at hente, analysere og illustrere data ligger 
 
 
 ## **USED TECHNOLOGIES**
-
+```
 from selenium import webdriver
 
 from selenium.webdriver.common.by import By
@@ -46,7 +46,7 @@ import re
 import time
 
 import seaborn as sns
-
+```
 
 
 ## **I dette program findes der følgende metoder til at analysere vin:**
