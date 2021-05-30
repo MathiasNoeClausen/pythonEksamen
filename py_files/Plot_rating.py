@@ -144,8 +144,8 @@ def plot_rating(df):
 def describe(df):
     return df.describe()
 
-plotbar = df.copy()
-plot_rating(plotbar)
+#plotbar = df.copy()
+#plot_rating(plotbar)
 
 
 # In[41]:
@@ -164,7 +164,7 @@ def describe_df(mask):
     mask_by_country = mask.groupby('Country')
     print(type(mask_by_country))
     return mask_by_country.describe()
-describe_df(mask)
+#describe_df(mask)
 
 
 # In[43]:
@@ -212,10 +212,10 @@ plt.ylabel('Average rating pr. country');
 
 def plot_red(red_df):
     #red_df = pd.read_csv('redwinedata.csv', names=["Name", "Year", "Price", "Rating", "Review", "Country"])
-    red_df.drop(red_df[red_df.Reviews < 112].index, inplace=False)
+    red_df.drop(red_df[red_df.Review < 112].index, inplace=False)
     return plot_rating(red_df)
-red_df = pd.read_csv('redwinedata.csv', names=["Name", "Year", "Price", "Rating", "Reviews", "Country"])
-plot_red(red_df)
+#red_df = pd.read_csv('redwinedata.csv', names=["Name", "Year", "Price", "Rating", "Reviews", "Country"])
+#plot_red(red_df)
 
 
 # In[82]:
@@ -223,19 +223,19 @@ plot_red(red_df)
 
 def plot_white(white_df):
     #white_df = pd.read_csv('whitewinedata.csv', names=["Name", "Year", "Price", "Rating", "Review", "Country"])
-    white_df.drop(white_df[white_df.Reviews < 65].index, inplace=False)
+    white_df.drop(white_df[white_df.Review < 65].index, inplace=False)
     return plot_rating(white_df)
-white_df = pd.read_csv('whitewinedata.csv', names=["Name", "Year", "Price", "Rating", "Reviews", "Country"])
-plot_white(white_df)
+#white_df = pd.read_csv('whitewinedata.csv', names=["Name", "Year", "Price", "Rating", "Reviews", "Country"])
+#plot_white(white_df)
 
 
 # In[83]:
 
 
-def plot_sparkling(sparkling_df):
+def plot_sparkling(sparkling.df):
     #sparkling_df = pd.read_csv('sparklingwinedata.csv', names=["Name", "Year", "Price", "Rating", "Review", "Country"])
-    sparkling_df.drop(sparkling_df[sparkling_df.Reviews < 95].index, inplace=False)
+    sparkling_df.drop(sparkling_df[sparkling_df.Review < 95].index, inplace=False)
     return plot_rating(sparkling_df)
-sparkling_df = pd.read_csv('sparklingwinedata.csv', names=["Name", "Year", "Price", "Rating", "Reviews", "Country"])
-plot_sparkling(sparkling_df)
+#sparkling_df = pd.read_csv('sparklingwinedata.csv', names=["Name", "Year", "Price", "Rating", "Reviews", "Country"])
+#plot_sparkling(sparkling_df)
 
