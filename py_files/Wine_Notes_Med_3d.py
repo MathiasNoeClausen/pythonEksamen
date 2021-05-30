@@ -4,6 +4,19 @@ import random
 import matplotlib.cm as cm
 import itertools
 import pandas as pd
+import numpy as np
+
+def get_appended_df():
+    df = pd.read_csv('RedWineWithNotes.csv')#[0:150]
+    dfRose = pd.read_csv('RoseWineWithNotes.csv')
+    dfDessert = pd.read_csv('DessertWineWithNotes.csv')
+    dfWhite = pd.read_csv('WhiteWineWithNotes.csv')#[0:150]
+    temp = df.append(dfRose, ignore_index=True)
+    tempappended_df = temp.append(dfDessert, ignore_index=True)
+    appended_df = tempappended_df.append(dfWhite, ignore_index=True)                      
+    filt = appended_df['Boldness'] > 0
+    appended_df = appended_df[filt]
+    return appended_df
 
 def create_3d_plot(appended_df):
     fig = pyplot.figure(figsize=(8,8))
