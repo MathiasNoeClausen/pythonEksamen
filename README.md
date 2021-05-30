@@ -23,6 +23,9 @@ I dette program findes der følgende metoder til at analysere vin:
 
 plot_rating (Laver en graf som viser min, median og max rating på de forskellige lande, samt information om de 1-3 lavest og højest rated vine)
 describe_df (Beskriver hvor mange vine der er fra de enkelte lande samt data på rating.)
+max_rating_df (Finder de bedste vine for hvert år, og laver et nyt dataframe ud fra det.)
+plot_max_df (Tager det nye dataframe fra max_rating_df og laver to grafer, en der viser højeste rating på vin for hvert år og en der viser reviews på de samme vin)
+max_occurences (Viser hvor mange gange hvert land har haft den bedste vin)
 
 Viser grafer for de forskellige typer vin:
 red_df,
