@@ -53,7 +53,7 @@ Vi kom igennem med det opgaver, vi havde sat os ud for. Det eneste som vi ikke n
 
 
 ## **Metoder til at analysere vin:**
-
+Webscraping metoder i folderne Scrape_Data og Scrape_With_notes
 
 plot_rating (Laver en graf som viser min, median og max rating på de forskellige lande, samt information om de 1-3 lavest og højest rated vine)
 
