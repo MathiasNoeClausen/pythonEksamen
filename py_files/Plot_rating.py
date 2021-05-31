@@ -178,19 +178,20 @@ median_rating
 
 # In[44]:
 
+def plotchart_a():
+    newdf = pd.DataFrame()
+    newdf['Min'] = min_rating['Rating']
+    newdf['Median'] = median_rating['Rating']
+    newdf['Max'] = max_rating['Rating']
+    newdf.plot(kind='bar', figsize=(10,5))
+    plt.legend(loc='upper center', bbox_to_anchor=(1.1, 1), ncol=1)
 
-newdf = pd.DataFrame()
-newdf['Min'] = min_rating['Rating']
-newdf['Median'] = median_rating['Rating']
-newdf['Max'] = max_rating['Rating']
-newdf.plot(kind='bar', figsize=(10,5))
-plt.legend(loc='upper center', bbox_to_anchor=(1.1, 1), ncol=1)
-
-mydata = [min_rating['Rating'], median_rating['Rating'], max_rating['Rating']]
-headers = ['Min', ['Median'], ['Max']]
-newdf = pd.DataFrame(mydata, headers)
-newdf.plot(kind='bar', figsize=(10,5))
-plt.legend(loc='upper center', bbox_to_anchor=(1.1, 1), ncol=1)
+def plotchart_b():
+    mydata = [min_rating['Rating'], median_rating['Rating'], max_rating['Rating']]
+    headers = ['Min', ['Median'], ['Max']]
+    newdf = pd.DataFrame(mydata, headers)
+    newdf.plot(kind='bar', figsize=(10,5))
+    plt.legend(loc='upper center', bbox_to_anchor=(1.1, 1), ncol=1)
 
 
 # In[46]:
