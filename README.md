@@ -1,4 +1,4 @@
-## **WINE ANALYSIS EXAM PROJECT**
+## **WEBSCRAPING AND ANALYSIS OF WINES ON VIVINO.COM**
 
 I dette projekt vil vi scrape de forskellige oplysninger der findes om vine fra vivino.com.
 Det skal så analyseres på bl.a. rating, antal reviews, pris og smagsnoter, så vi kan bestemme fx. hvilken vin der var højest rated i 2009 og om der er en correlation mellem smagsnoter og pris.
@@ -48,8 +48,11 @@ import time
 import seaborn as sns
 ```
 
+## **STATUS:**
+Vi kom igennem med det opgaver, vi havde sat os ud for. Det eneste som vi ikke nåede at implementere var en machine learning funktion der blev trænet på f.eks. smagsnoter, lande, mængden af reviews osv. til bedre at kunne predicte en vins pris.
 
-## **I dette program findes der følgende metoder til at analysere vin:**
+
+## **Metoder til at analysere vin:**
 
 
 plot_rating (Laver en graf som viser min, median og max rating på de forskellige lande, samt information om de 1-3 lavest og højest rated vine)
@@ -83,8 +86,3 @@ plot_mean_notes_for_countries (Laver en graf over den gennemsnitlige kraftighed,
 get_correlation_between_country_and_notes (Navngivet lidt forkert men kigger på lande, deres temperatur, og hvilken indflydelse det har på smagsnoterne)
 
 plot_mean_notes_for_winetypes (Laver en lignende graf men denne gang opdelt efter vintyper)
-
-
-
-## **STATUS:**
-Vi kom igennem med det opgaver, vi havde sat os ud for. Det eneste som vi ikke nåede at implementere var en machine learning funktion der blev trænet på f.eks. smagsnoter, lande, mængden af reviews osv. til bedre at kunne predicte en vins pris.
