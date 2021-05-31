@@ -62,30 +62,29 @@ plot_max_df (Tager det nye dataframe fra max_rating_df og laver to grafer, en de
 
 max_occurences (Viser hvor mange gange hvert land har haft den bedste vin)
 
+get_distribution_of_ratings (Viser en graf over fordelingen af ratings)
+
+get_correlation (Viser korrelationen mellem pris, ratings og år)
+
+plot_price_and_rating_correlation (Lavet et plot med regression på pris og rating)
+
+plot_year_and_rating_correlation (Gør det ovenstående men for år og rating)
+
+improvement_in_correlation_over_time (Tester om vi har scraped nok data til at danne os et præcist billede)
+
+predict_prices (Bruger sklearn LinearRegression til at gætte prisen)
 
 create_3d_plot (Laver en 3d præsentation af vor vine placeres efter deres kraftighed, sødme og syre, farvet efter hvilken type af vin det er)
 
 create_predicted_3d_plot (Forsøger at lave en opdeling og 3d præsentation af de samme vin alt efter, hvordan de clusters. Her bruges MeanShift)
 
-plot_mean_notes_for_countries (Laver en graf over den gennemsnitlige kraftighed, sødme og syre afhængigt af hvilket land de kommer fra) 
+plot_mean_notes_for_countries (Laver en graf over den gennemsnitlige kraftighed, sødme og syre afhængigt af hvilket land de kommer fra)
+
+get_correlation_between_country_and_notes (Navngivet lidt forkert men kigger på lande, deres temperatur, og hvilken indflydelse det har på smagsnoterne)
 
 plot_mean_notes_for_winetypes (Laver en lignende graf men denne gang opdelt efter vintyper)
 
 
-Viser grafer for de forskellige typer vin:
-red_df,
-white_df, 
-sparkling_df
-
 
 ## **STATUS:**
-1. Vi vil forudsige kvaliteten af vine ud fra de oplysninger vi kan finde på den enkelte vin
-på vivino.com DONE
-2. Vi vil se om der er en sammenhæng mellem pris og anmeldelsen på vinen. DONE
-3. Vise en graf over lande med bedst rating. DONE
-4. Har årstal og rating en sammenhæng. DONE
-5. Hvilket land kan man købe bedst billig vin i.
-6. Hvilken type vin har været mest populær i de givne år. DONE
-7. (ikke lav denne) Vi vil kunne anbefale vine alt efter hvilke smagsnoter man ønsker.
-8. måske et eller andet scoring/vægt system der sammenligner pris og ratings for at give dem med højest score
-9. machine learning clustering
+Vi kom igennem med det opgaver, vi havde sat os ud for. Det eneste som vi ikke nåede at implementere var en machine learning funktion der blev trænet på f.eks. smagsnoter, lande, mængden af reviews osv. til bedre at kunne predicte en vins pris.
