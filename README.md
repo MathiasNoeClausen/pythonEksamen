@@ -49,7 +49,7 @@ import seaborn as sns
 ```
 
 ## **STATUS:**
-Vi kom igennem med det opgaver, vi havde sat os ud for. Det eneste som vi ikke nåede at implementere var en machine learning funktion der blev trænet på f.eks. smagsnoter, lande, mængden af reviews osv. til bedre at kunne predicte en vins pris.
+Vi kom igennem med de opgaver, vi havde sat os ud for. Det eneste som vi ikke nåede at implementere var en machine learning funktion der blev trænet på f.eks. smagsnoter, lande, mængden af reviews osv. til bedre at kunne predicte en vins pris.
 
 
 ## **Metoder til at analysere vin:**
