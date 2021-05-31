@@ -62,7 +62,7 @@ def create_predicted_3d_plot(appended_df):
         axPredict.scatter(cluster_center[0], cluster_center[1], cluster_center[2], c='k', s=50)
 
         x, y, z = appended_clean[mask_label]['Boldness'], appended_clean[mask_label]['Sweetness'], appended_clean[mask_label]['Acidity']
-        axPredict.scatter(x, y, z, c=col,  linewidth=0.2, alpha=0.1)
+        axPredict.scatter(x, y, z, c=col,  linewidth=0.2, alpha=0.3)
 
     plt.title('Number of estimated winetype clusters: {}'.format(n_clusters))
     plt.show()
@@ -110,3 +110,27 @@ def plot_mean_notes_for_winetypes(appended_df):
     ax = notes_by_winetype.plot(kind="barh", figsize=(10,5))
     plt.title("Mean levels of boldness, sweetness and acidity by type")
 
+temperature_dict = {'Argentina': 14.80, 'Chile': 8.45, 'Italy': 13.45, 'Austria': 6.35, 'Germany': 8.40, 
+                    'Australia': 21.65, 'France': 10.70, 'New Zealand': 10.55, 'Portugal': 15.15, 
+                    'South Africa': 18.75, 'Spain': 13.30, 'United States': 8.55}
+
+def get_correlation_between_country_and_notes(appended_df):
+    list_of_country_dfs = []
+    counts = appended_df['Country'].value_counts()
+    ap_shaved = appended_df = appended_df[appended_df.isin(counts.index[counts >= 5]).values]
+
+    for i in ap_shaved.columns[6:9]:
+        list_of_country_dfs.append(ap_shaved.groupby('Country')[i].mean())
+
+    temp = list_of_country_dfs[0].to_frame().merge(list_of_country_dfs[1].to_frame(), on='Country')
+    notes_by_country = temp.merge(list_of_country_dfs[2].to_frame(), on='Country')
+
+    notes_by_country['Temp'] = 0
+
+    for c in notes_by_country.index:
+        for key in temperature_dict:
+            if(c == key):
+                notes_by_country['Temp'][c] = temperature_dict[key]
+                #print(temperature_dict[key])
+
+    return notes_by_country
