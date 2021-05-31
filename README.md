@@ -7,7 +7,7 @@ Det skal så analyseres på bl.a. rating, antal reviews, pris og smagsnoter, så
 
 ## **USER GUIDE**
 
-Alle metoder der bliver brugt til at hente, analysere og illustrere data ligger i mappen 'Project_Main'. Burde bare kunne køres og så henter den selv fra py filerne.
+Alle metoder der bliver brugt til at hente, analysere og illustrere data ligger i notebooken 'Project_Main'. Burde bare kunne køres og så henter den selv fra py filerne. 
 
 
 
